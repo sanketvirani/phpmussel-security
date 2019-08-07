@@ -1,0 +1,10 @@
+/vault/cache/*
+!/vault/cache/.htaccess
+/vault/config.ini
+/vault/fe_assets/frontend.dat
+/vault/scan_log.txt
+/vault/scan_kills.txt
+/vault/scan_log_serialized.txt
+/vault/signatures/*
+!/vault/signatures/.htaccess
+!/vault/signatures/switch.dat
